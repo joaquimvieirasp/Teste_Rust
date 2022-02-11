@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");
+    println!("Atualização do cargo!");
 }
